@@ -1,0 +1,200 @@
+@font-face {
+    font-family: "Product";
+    src: url("./webfontkit-20220329-125029/product_sans_regular-webfont.woff") ;
+    font-style: normal;
+
+    }
+
+    .center_div{
+        display: flex;
+        justify-content: center;
+      }
+
+      .flex1{
+        display:flex;
+        justify-content: space-evenly;
+        flex-direction: column;
+      }
+
+      .flex_container1{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+      
+      }
+
+      .img-curve{
+        border-radius: 30px 30px 30px 30px;
+        margin:20px;
+        padding:5px;
+      }
+
+      .img-curve-2{
+        border-radius: 10px 10px 10px 10px;
+        box-shadow: 0px 4px 8px 0 rgba(0,0,0,0.2);
+      }
+
+      .img-curve-2:hover{
+        box-shadow: 0px 16px 32px 0 rgba(0,0,0,0.2);
+      }
+
+      .img-curve:hover{
+        box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+      }
+
+      .text_style{
+        font-family: "Product";
+      }
+
+      .recent_email{
+        padding-left: 75px;
+        padding-right: 20px;
+      }
+      .email1{
+        border: 3px solid black;
+        padding-left: 25px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+      }
+      .email2{
+        border: 3px solid black;
+        padding-left: 25px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+      }
+      .email3{
+        border: 3px solid black;
+        padding-left: 25px;
+      }
+
+      .background_gradient{
+        background-image: linear-gradient(to bottom right,#B589D6, #552586 );
+        position: relative;
+
+        padding: -10px -10px -10px -10px;
+      }
+
+      .overlapper{
+        margin-top: -200px;
+        z-index: 200;
+      }
+
+      .black_button{
+        border: solid 1px white;
+        border-radius: 20px;
+        height: 30px;
+        width: 70px;
+        background-color: black;
+        color: white;
+        border: solid 1px black;
+        float: right;
+
+
+      }
+
+      .push_right{
+            margin-left: 10px;
+        }
+
+      .black_button:hover{
+        background-color: white;
+        color: black;
+        border: solid 1px black;
+
+      }
+
+      .center1{
+        display: flex;
+        justify-content: center;
+        padding-top: 7px;
+      }
+
+      a:link { text-decoration: none; }
+      a:visited { text-decoration: none; }
+      a:hover { text-decoration: none; }
+      a:active { text-decoration: none; }
+
+      .current_key{
+        margin-top: 100px;
+      }
+
+      .remove_all_keys{
+        border: solid 1px white;
+        border-radius: 20px;
+        height: 40px;
+        width: 200px;
+        background-color: black;
+        color: white;
+        border: solid 1px black;
+      }
+
+      .remove_all_keys:hover{
+        background-color: white;
+        color: black;
+        border: solid 1px black;
+      }
+
+      .padding-current_keywords{
+        padding-left: 50px;
+      }
+
+      .div-row{
+        display: flex;
+        flex-direction: row;
+      }
+
+      .margin-push-down{
+
+        margin-top: 112px;
+        margin-left: 50px;
+      }
+
+      .margin-push-down2{
+
+        margin-top: 95px;
+        margin-left: 50px;
+      }
+
+      .button-left{
+        margin-left: 50px;
+      }
+
+      .background_gradient1{
+      background: linear-gradient(to left, #ada996, #f2f2f2, #dbdbdb, #eaeaea); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    }
+
+    .quick_div1{
+      margin-top: 100px;
+    }
+
+    .black_button1{
+      border: solid 1px white;
+      border-radius: 20px;
+      height: 30px;
+      width: 70px;
+      background-color: black;
+      color: white;
+      border: solid 1px black;
+      float: right;
+      margin-top:-90px
+
+
+    }
+
+    .black_button1:hover{
+      background-color: white;
+      color: black;
+      border: solid 1px black;
+
+    }
+
+    .margin-push{
+      padding-bottom: -100px;
+      margin-bottom: 50px;
+    }
+
+    .main_phrase_positioning{
+      margin-top: 100px;
+    }
+
+
