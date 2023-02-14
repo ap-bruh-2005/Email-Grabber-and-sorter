@@ -1,0 +1,13 @@
+{
+  "name": "comp_ia",
+  "version": "1.0.0",
+  "description": "A simple email handling program ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Aditya Prabhu"
+ 
+}
+
