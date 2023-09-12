@@ -1,7 +1,7 @@
 # Email grabber and sorter
 
 
-This is my computer Science IA product. Essentially, it is a desktop application built using Electron, to help increase my client's productivity by optimising his email system. It is important to remember that without inputting an outlook account and password this application wont work.
+This is a desktop application built using Electron, to help increase the user's productivity by optimising his email system. This project uses protocols such as  SMTP to retrieve and filter out important mails, and use protocols like IMAP to send pre-made responses. It is important to remember that without inputting an outlook account and password this application wont work.
  
 ## Prerequisites required to run the application
 
