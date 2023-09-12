@@ -1,4 +1,5 @@
-# Computer Science Internal Assessment Product
+# Email grabber and sorter
+
 
 This is my computer Science IA product. Essentially, it is a desktop application built using Electron, to help increase my client's productivity by optimising his email system. It is important to remember that without inputting an outlook account and password this application wont work.
  
